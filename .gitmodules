@@ -1,0 +1,3 @@
+[submodule "hggittest"]
+	path = hggittest
+	url = git@github.com:vvcephei/hggittest.git
